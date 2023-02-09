@@ -830,10 +830,10 @@
     iterare "1.2.1"
     tslib "2.4.0"
 
-"@nestjs/passport@8.2.1":
-  version "8.2.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/passport/-/passport-8.2.1.tgz#a2abff9f51b3857b3423f5380a00f475aa298fe7"
-  integrity sha512-HXEKMLX1x865+lsJB4srwKHBciDNAhWY1Ha+xbxYRbk7J5leGDoHJAmeqe+Wb3NDn5nkboggLV87t0q2mbYc8w==
+"@nestjs/passport@9.0.2":
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/passport/-/passport-9.0.2.tgz#26d3f02ee314451b87173eede6273f9b7ad6b1d1"
+  integrity sha512-L+hLH1+yQPr0cW83AZ2Suho/hQuN8OFCV6XxLknuzVW6hWReraPjgjxrz+8fFnOEOSyt3KnwUDULvuqEqgETaA==
 
 "@nestjs/platform-express@8.4.6":
   version "8.4.6"
